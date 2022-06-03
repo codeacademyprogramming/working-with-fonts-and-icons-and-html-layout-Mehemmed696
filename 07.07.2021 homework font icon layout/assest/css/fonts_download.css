@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Aphrodite Slim Pro';
+    src: url('AphroditeSlimPro.eot');
+    src: url('../font/AphroditeSlimPro.eot?#iefix') format('embedded-opentype'),
+        url('../font/AphroditeSlimPro.woff2') format('woff2'),
+        url('../font/AphroditeSlimPro.woff') format('woff'),
+        url('../font/AphroditeSlimPro.ttf') format('truetype'),
+        url('../font/AphroditeSlimPro.svg#AphroditeSlimPro') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+html{
+    font-family: 'AphroditeSlimPro',Arial, Helvetica, sans-serif;
+}
